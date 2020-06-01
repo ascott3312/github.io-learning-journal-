@@ -1,6 +1,6 @@
 # Growth Midset
 ## Concept
-The **Growth Midset** is a new way thinking from thinking in your own *Fixed* way.
+The **Growth Midset** is a open and positivie way to promote growth in acheiving new things versus the *Fixed* or old way of doing things.
 
 ### Table of Contents
 
