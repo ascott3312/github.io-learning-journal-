@@ -3,14 +3,13 @@
 * ***Bold*** example in Markdown
   * **Italic** example
   * ***Bold Italic***
-##
-### Example of a nested Ordered List
-1. First Name
-1. Last Name
-1. States Lived
-   1. Iowa
-   1. Illinois
-   1. Florida
+## Example of a nested Ordered List
+1.  1. First Name
+1.  2. Last Name
+1.  3. States Lived
+   1. a.Iowa
+   1. b.Illinois
+   1. c.Florida
    
 #### Example of List Boxes in Markdown
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
@@ -19,8 +18,7 @@
 - [ ]  this is an incomplete item
 
 ##### Example of Table in Markdown
-Markdown | Examples
+First Header | Second Header
 ------------ | -------------
-Table | Extendend Syntax
-Bold | Basic Syntax
-
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
