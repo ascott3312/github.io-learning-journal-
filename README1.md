@@ -19,7 +19,7 @@
 
 #### Example of Table in Markdown
 Markdown | Examples
--------- | --------
+------------ | -------------
 Table | Extendend Syntax
 Bold | Basic Syntax
 
