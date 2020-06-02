@@ -17,10 +17,10 @@
 - [ ]  this is a complete item
 - [ ]  this is an incomplete item
 #### Example of Table in Markdown
-Markdown | Examples
+Markdown     | Examples
 ------------ | -------------
-Table | Extendend Syntax
-Bold | Basic Syntax
+Table        | Extendend Syntax
+Bold         | Basic Syntax
 #### Title Four
 > Item 1
 >>Item 1a
