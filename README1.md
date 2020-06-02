@@ -1,5 +1,4 @@
 # Summary
-
 * _Markdown_ is a lightweight markup language with plain-text-formatting syntax.
 * ***Bold*** example in Markdown
   * **Italic** example
