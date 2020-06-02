@@ -10,5 +10,6 @@
         - Defines how to format the text on a web page
         - Files end with .css
         - Defines the styles to be used for the different html elements.
+
 ## Fun facts
 
