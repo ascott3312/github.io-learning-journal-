@@ -3,7 +3,7 @@
         - Defines what text will be shown on a web page.
         - Files end with .html
         - Body, Head, and Title are the main sections of an html page
-             - Title - Defines the tab text, the meta tags for the website, keywords, and how to link to the .css files.
+            - Title - Defines the tab text, the meta tags for the website, keywords, and how to link to the .css files.
             - Head - Defines the header text of the web page.
             - Body - Defines the text for the body part of the web page going from the header text to the footer text.
     2. CSS
