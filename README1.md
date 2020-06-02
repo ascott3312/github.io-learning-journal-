@@ -20,7 +20,4 @@ Markdown     | Examples
 ------------ | -------------
 Table | Extendend Syntax
 Bold | Basic Syntax
-#### Title Four
-> Item 1
->>Item 1a
 
