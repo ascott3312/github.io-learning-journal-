@@ -3,7 +3,8 @@
 * _Markdown_ is a lightweight markup language with plain-text-formatting syntax.
 * ***Bold*** example in Markdown
   * **Italic** example
-  * > Blockquote example>
+  * > Blockquote example
+  
 ## Example of a nested Ordered List
 1. Item 1 - First Name
 1. Item 2 - Last Name
