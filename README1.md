@@ -18,7 +18,7 @@
 - [ ]  this is an incomplete item
 
 #### Example of Table in Markdown
-Markdown     | Examples
+Markdown | Examples
 -------- | ---------
 Table | Extendend Syntax
 Bold | Basic Syntax
