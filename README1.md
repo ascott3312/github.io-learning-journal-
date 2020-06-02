@@ -1,20 +1,21 @@
 # Summary
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-## Title One
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-### Title Two
+* _Markdown_ is a lightweight markup language with plain-text-formatting syntax.
+* ***Bold*** example in Markdown
+  * **Italic** example
+  * > Blockquote example
+## Example of a nested Ordered List
+1. Item 1 - First Name
+1. Item 2 - Last Name
+1. Item 3 - States Lived
+   1. Iowa
+   1. Illinois
+   1. Florida
+### Example of list boxes in markup
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [ ]  this is a complete item
+- [ ]  this is an incomplete item
 #### Title Three
 First Header | Second Header
 ------------ | -------------
