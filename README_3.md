@@ -2,3 +2,5 @@
   - Git is a vesrsion control tool that trackes the changes that you make in creating a web page.
   - The different versions are stored a snap shot in which you can view the code that was added from the last commit.
   If the file has not changed, Git only stores a reference to the already-stored identical version of it.
+  ## **New Section**
+  ### Section 3
