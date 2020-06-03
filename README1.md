@@ -1,24 +1,18 @@
-# Summary
-* _Markdown_ is a lightweight markup language with plain-text-formatting syntax.
-* ***Bold*** example in Markdown
+#  Markdown Summary
+* _Markdown_ is a lightweight markup language with plain-text-formatting syntax,
+  * ***Bold*** example
   * **Italic** example
-  * ***Bold Italic***
-## Example of a nested Ordered List
-1.  1. First Name
-1.  2. Last Name
-1.  3. States Lived
-   1. a.Iowa
-   1. b.Illinois
-   1. c.Florida
+  * ***Bold Italic*** example
+## Markdown Definition
+Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+
+Created by John Gruber in 2004, Markdown is now one of the world's most popular markup languages. Using Markdown is different than using a WYSIWYG editor.
    
-#### Example of List Boxes in Markdown
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [ ]  this is a complete item
-- [ ]  this is an incomplete item
+#### The following are valid identifiers for Unorderd list in Markdown
+- [x] -
+- [x] *
+- [x] +
+- [ ] **
 
 ##### Example of Table in Markdown
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+
