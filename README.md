@@ -1,5 +1,5 @@
 # Table of Contents
-  [Summary](README1.md)
+  [Markdown](README1.md)
   
   [Growth Mindset](README_g.md)
   
