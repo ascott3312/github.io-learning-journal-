@@ -17,3 +17,5 @@
  1. git add * - Adds the changes to your project
  1. git push origin master - Pushes changes from your desktop
 
+ ### Git Section Three
+
