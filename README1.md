@@ -14,5 +14,9 @@ Created by John Gruber in 2004, Markdown is now one of the world's most popular 
 - [x] +
 - [ ] **
 
-##### Example of Table in Markdown
+##### Syntax Examples
+1. Link [Markdown](https://guides.github.com/features/mastering-markdown/)
+1. Image
+1. Third item
+1. Fourth item
 
