@@ -9,4 +9,13 @@
  1. git add * - Adds the changes to your project
  1. git push origin master - Pushes changes from your desktop
 
- ### Git Section Three
+ ### What Git command do you use to clone from GitHub
+- [ ] Git status
+- [X] Git clone 
+- [ ] Git commit
+
+#### Git Table Reference
+| Reference | Code |
+| ----------- | ----------- |
+| Committing a File | git commit -m “made change x,y,z” |
+| Seeing Your Remotes | git remote -v |
