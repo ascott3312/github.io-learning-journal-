@@ -11,11 +11,4 @@
         - Files end with .css
         - Defines the styles to be used for the different html elements.
 
-## Git Commands
- 1. git status - identifies if the branch is clean or needs to be updated
- 1. git commit - records what you did in the commit performed
- 1. git add * - Adds the changes to your project
- 1. git push origin master - Pushes changes from your desktop
-
- ### Git Section Three
 
