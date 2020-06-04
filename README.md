@@ -7,3 +7,5 @@
 
   [Overview HMTL & CSS](README_4.md)
   
+  [Adding a text editor](README_5.md)
+  
