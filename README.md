@@ -14,3 +14,5 @@
   [Computers](README_7.md)
   
   [Programming JavaScript](README_8.md)
+  
+  [Logical Operters and Loops](README_9.md)
